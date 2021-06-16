@@ -1,12 +1,12 @@
 module.exports = {
   profile: {
-    name: '김우현',
-    description: 'Front-end developer',
-    dateOfBirth: '1996.11.05',
-    email: 'dngus242@gmail.com',
+    name: '이가람',
+    description: 'Software Engineer',
+    dateOfBirth: '1993.10.28',
+    email: 'dlrkfka1028@gmail.com',
     links: [
-      {name: 'github', href: 'https://github.com/KimWooHyun'},
-      {name: 'portfolio', href: 'https://kimwoohyun.github.io/portfolio/'}
+      {name: 'github', href: 'https://github.com/9aram'},
+      {name: 'portfolio', href: 'https://9aram.github.io/porfolio-developer/'}
     ]
   },
   contents: {
@@ -18,17 +18,17 @@ module.exports = {
       },
       {
         'date': 'Language',
-        'title': 'HTML5 / CSS3 / JavaScript / Typescript / Swift / Python',
+        'title': 'Java / JavaScript / HTML5 / CSS3',
         'contents': ['']
       },
       {
         'date': 'Framework',
-        'title': 'Vue.js / Nuxt.js / React / Django / Flask',
+        'title': 'Spring / Electron',
         'contents': ['']
       },
       {
         'date': 'Library',
-        'title': 'Webpack / Less / Scss / Axios / Alamofire',
+        'title': 'jQuery / D3 / Scss ',
         'contents': ['']
       },
       {
@@ -171,25 +171,29 @@ module.exports = {
     ],
     '학력 사항': [
       {
-        'date': '2016 - 현재',
-        'title': '한국방송통신대학교',
-        'contents': ['컴퓨터과학과 재학중']
+        'date': '2012 - 2017',
+        'title': '동서대학교',
+        'contents': ['컴퓨터공학부 정보통신공학전공 (4.02 / 4.5)']
+      },{
+        'date': '2015 - 2015',
+        'title': 'University of Oulu',
+        'contents': ['Computer science (4.38 / 4.5)']
       },
       {
-        'date': '2012 - 2015',
-        'title': '미림여자정보과학고등학교 (미림 마이스터고)',
-        'contents': ['인터랙티브 미디어과 졸업']
+        'date': '2009 - 2012',
+        'title': '삼성여자고등학교',
+        'contents': ['이과']
       }
     ]
   },
   summary: {
     '경력 요약': [
       {
-        'date': ['2018.04.23', '현재'],
-        'title': 'Spoqa (스포카)',
+        'date': ['2018.10.01', '2021.01.07'],
+        'title': 'Cyber Imagination (사이버 이메지네이션)',
         'contents': [
-          '주 - Front-end 개발',
-          '서브 - Swift, Android 개발',
+          '주 - Back-end 개발',
+          '서브 - Front-end 개발',
         ]
       },
       {
@@ -211,59 +215,6 @@ module.exports = {
     ]
   },
   detailContents: {
-    'Spoqa (스포카)': {
-      'date': '2018.04.23 - 현재',
-      'info': '소상공인을 위한 포인트 적립 및 마케팅 솔루션을 제공하는 스타트업.',
-      'service': [
-        `Web<br /> 
-        - 회사 홈페이지: <a href="https://www.spoqa.com/">https://www.spoqa.com/</a><br/>
-        - 도도포인트 홈페이지: <a href="https://www.dodopoint.com/">https://www.dodopoint.com/</a>
-        `
-      ],
-      'project': {
-        'project': [
-          {
-            'date': '2019.03 - ',
-            'title': 'Growth Hack',
-            'contents': [
-              '메시지, 인바운드 그로쓰핵을 위한 프론트엔드 작업',
-              '- 작업 리스트 : 퀘스트 기능 정식 릴리즈',
-              'stack: React, Redux, Typescript, Scss'
-            ]
-          },
-          {
-            'date': '2019.01 - 2019.03',
-            'title': 'Inbound 스쿼드 오거나이저',
-            'contents': [
-              '리드 확보 및 재계약율 개선을 위한 그로쓰핵 스쿼드 오거나이징',
-              '- 작업 리스트 : 실무자 미팅 / 협의체 미팅 / 리더 미팅 / 프로덕트 매니징 / 리드 확보 기획안 작성 및 프로토타이핑 / inbound 리드 시트 개선안 기획 / 소개 리워드 기능 기획 및 프론트엔드 작업 / 퀘스트 기능 기획 및 프론트엔드 작업',
-              'stack: Python, Jinja2, React, Redux, Typescript, Scss'
-            ]
-          },
-          {
-            'date': '2018.07 - 2018.11',
-            'title': '손님용 모바일 페이지 배포',
-            'contents': [
-              '손님이 직접 회원 정보를 수정 할 수 있는 모바일 페이지 배포',
-              '- 작업 리스트 : 정보 확인 / 변경 / 휴대폰 변경 / 인증 번호 확인',
-              '- 기여도 : 50%, 프론트엔드 100% 기여',
-              'stack: React, Redux, Typescript, Scss'
-            ]
-          },
-          {
-            'date': '2018.05 - 2018.06',
-            'title': 'POS와 태블릿 연동 개선',
-            'contents': [
-              'POS와 태블릿을 SSE를 이용하여 연동할 수 있는 프로세스 개발',
-              '- 작업 리스트 : 태블릿에서 연동 코드 가져오기 / POS에서 연동코드 확인하기 / iOS, Android와 웹 연동을 위해 네이티브 코드 수정',
-              '- SSE(Server-Sent Events) 을 이용하여 연동 ping/pong',
-              '- 기여도 : 25%, 프론트엔드 100% 기여',
-              'stack: React, Redux, Typescript, Scss'
-            ]
-          },
-        ]
-      }
-    },
     'ONE MOMENT (원모먼트)': {
       'date': '2016.01.25 - 2018.01.25',
       'info': '90분 당일 꽃배달 서비스 “원모먼트 플라워” 를 서비스 중인 스타트업.',
@@ -353,6 +304,59 @@ module.exports = {
               'stack: HTML5, CSS3, JavaScript, jQuery, Django'
             ]
           }
+        ]
+      }
+    },
+    'Spoqa (스포카)': {
+      'date': '2018.04.23 - 현재',
+      'info': '소상공인을 위한 포인트 적립 및 마케팅 솔루션을 제공하는 스타트업.',
+      'service': [
+        `Web<br /> 
+        - 회사 홈페이지: <a href="https://www.spoqa.com/">https://www.spoqa.com/</a><br/>
+        - 도도포인트 홈페이지: <a href="https://www.dodopoint.com/">https://www.dodopoint.com/</a>
+        `
+      ],
+      'project': {
+        'project': [
+          {
+            'date': '2019.03 - ',
+            'title': 'Growth Hack',
+            'contents': [
+              '메시지, 인바운드 그로쓰핵을 위한 프론트엔드 작업',
+              '- 작업 리스트 : 퀘스트 기능 정식 릴리즈',
+              'stack: React, Redux, Typescript, Scss'
+            ]
+          },
+          {
+            'date': '2019.01 - 2019.03',
+            'title': 'Inbound 스쿼드 오거나이저',
+            'contents': [
+              '리드 확보 및 재계약율 개선을 위한 그로쓰핵 스쿼드 오거나이징',
+              '- 작업 리스트 : 실무자 미팅 / 협의체 미팅 / 리더 미팅 / 프로덕트 매니징 / 리드 확보 기획안 작성 및 프로토타이핑 / inbound 리드 시트 개선안 기획 / 소개 리워드 기능 기획 및 프론트엔드 작업 / 퀘스트 기능 기획 및 프론트엔드 작업',
+              'stack: Python, Jinja2, React, Redux, Typescript, Scss'
+            ]
+          },
+          {
+            'date': '2018.07 - 2018.11',
+            'title': '손님용 모바일 페이지 배포',
+            'contents': [
+              '손님이 직접 회원 정보를 수정 할 수 있는 모바일 페이지 배포',
+              '- 작업 리스트 : 정보 확인 / 변경 / 휴대폰 변경 / 인증 번호 확인',
+              '- 기여도 : 50%, 프론트엔드 100% 기여',
+              'stack: React, Redux, Typescript, Scss'
+            ]
+          },
+          {
+            'date': '2018.05 - 2018.06',
+            'title': 'POS와 태블릿 연동 개선',
+            'contents': [
+              'POS와 태블릿을 SSE를 이용하여 연동할 수 있는 프로세스 개발',
+              '- 작업 리스트 : 태블릿에서 연동 코드 가져오기 / POS에서 연동코드 확인하기 / iOS, Android와 웹 연동을 위해 네이티브 코드 수정',
+              '- SSE(Server-Sent Events) 을 이용하여 연동 ping/pong',
+              '- 기여도 : 25%, 프론트엔드 100% 기여',
+              'stack: React, Redux, Typescript, Scss'
+            ]
+          },
         ]
       }
     },
