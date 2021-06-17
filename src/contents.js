@@ -32,8 +32,8 @@ module.exports = {
         'contents': ['']
       },
       {
-        'date': 'Dependency Manager',
-        'title': 'cocoapods / npm / yarn / pip',
+        'date': 'Database',
+        'title': 'Oracle / MySQL',
         'contents': ['']
       }
     ],
@@ -62,39 +62,26 @@ module.exports = {
     ],
     '개인 활동': [
       {
-        'date': '2018.12',
-        'title': '[발표] 조금 일찍 시작한 사회 적응기',
+        'date': '2015.08 - 2015.12',
+        'title': '[부산국제교류재단] 글로벌 서포터즈',
         'contents': [
-          'Django Girls 2018 하반기 밋업 발표',
-          '- 특성화고 출신으로 시작하여 4년차 개발자로서의 성장하기까지의 이야기 발표',
-          '- <a href="https://www.slideshare.net/ssuserd3aacb/ss-124649398">https://www.slideshare.net/ssuserd3aacb/ss-124649398</a>'
+          '글로벌서포터즈로서 재단사업 홍보 & 기획, 운영',
+          '- \'부산국제교류재단\' 소속의 재단사업으로 홍보와 부산에 거주하는 내외국인 간의 원활한 교류를 위해 다양한 프로그램을 운영',
+          '- 2015 UnivExpo',
+          '- 맛있겠떡',
+          '- 쓰리GO! 한마당',
+          '- 교류인의밤',
+          '- <a href="http://www.bfic.kr/new/main/main.asp">http://www.bfic.kr/new/main/main.asp</a>'
         ]
       },
       {
-        'date': '2018.11',
-        'title': '[발표] Be Creators',
+        'date': '2014.09 - 2014.12',
+        'title': '[동서대학교 컴퓨터공학부] 홍보기자',
         'contents': [
-          'Women who code 서울 11월 밋업 발표',
-          '- 이직기와 개발자로서 현재 하고 있는일, 사내 문화들을 소개',
-          '- <a href="https://www.slideshare.net/ssuserd3aacb/be-creators">https://www.slideshare.net/ssuserd3aacb/be-creators</a>'
-        ]
-      },
-      {
-        'date': '2018.10',
-        'title': '[발표] "합시다. 회고."',
-        'contents': [
-          'GDG Campus Korea Lightning Talk & Networking 발표',
-          '-  사내문화 중에 "회고"에 대한 내용 발표',
-          '- <a href="https://www.slideshare.net/ssuserd3aacb/ss-119212098">https://www.slideshare.net/ssuserd3aacb/ss-119212098</a>'
-        ]
-      },
-      {
-        'date': '2018.06',
-        'title': '[발표] 디자이너와 파티맺기',
-        'contents': [
-          'Google Campus Korea 6월 밋업 발표',
-          '- 개발자와 디자이너간의 소통 그리고 업무 프로세스에 대한 발표',
-          '- <a href="https://www.slideshare.net/ssuserd3aacb/ss-100284832">https://www.slideshare.net/ssuserd3aacb/ss-100284832</a>'
+          '학부 블로그 기획, 운영',
+          '- 학부 공지사항 & 행사 기사 작성',
+          '- 교내 행사준비',
+          '- <a href="https://m.blog.naver.com/PostView.naver?blogId=computer_ck&logNo=220137106101&navType=tl">https://m.blog.naver.com/PostList.naver?blogId=computer_ck</a>'
         ]
       },
       {
@@ -118,55 +105,6 @@ module.exports = {
           '- 안내사이트 제작',
           '- <a href="https://devdjangokr.github.io/2018/">https://devdjangokr.github.io/2018/</a>'
         ]
-      },
-      {
-        'date': '2017.12',
-        'title': 'Do it! Vue.js',
-        'contents': [
-          'vue.js 관련 책 기술 검토 및 자문',
-          '서명: Do it! Vue.js 입문서',
-          '저자: 장기효',
-          '대상 독자: 프레임워크를 다뤄보지 않은 웹 개발 입문자, Vue.js를 배우고 싶은 대학생 & 퍼블리셔 & 실무자',
-          '책 내용: 프론트엔드 개발 프레임워크인 Vue.js 소개, 뷰 기술요소 학습, 뷰를 이용한 실전 애플리케이션 제작'
-        ]
-      },
-      {
-        'date': '2017.11',
-        'title': 'GDG DevFest',
-        'contents': [
-          'GDG DevFest 스태프',
-          '- 안내사이트 제작 참여',
-          '- <a href="https://devfest17-seoul.firebaseapp.com/">https://devfest17-seoul.firebaseapp.com/</a>'
-        ]
-      },
-      {
-        'date': '2017.09',
-        'title': '9XD 해커톤',
-        'contents': [
-          '9XD 해커톤 "내꺼만들기, 내꺼톤" 참가',
-          '- Vue.js 전파',
-          '- 팀 주제: 불만',
-          '- 본인의 불만을 말하고 피드백을 받을 수 있는 게시판 형태의 웹 서비스 "불만투고" 제작 및 배포'
-        ]
-      },
-      {
-        'date': '2017.08',
-        'title': '[발표] 원모먼트 Vue js 적용기',
-        'contents': [
-          'GDG Web Tech 발표',
-          '- Vue.js 관련 발표',
-          '- <a href="https://www.slideshare.net/ssuserd3aacb/vue-js-79169830">https://www.slideshare.net/ssuserd3aacb/vue-js-79169830</a>'
-        ]
-      },
-      {
-        'date': '2017.07',
-        'title': 'GDG Campus Korea summer party',
-        'contents': [
-          'GDG Campus Korea 스태프',
-          '- 행사 준비',
-          '- 안내사이트 제작 참여',
-          '- <a href="https://gdgsummerparty.firebaseapp.com">https://gdgsummerparty.firebaseapp.com</a>'
-        ]
       }
     ],
     '학력 사항': [
@@ -183,6 +121,22 @@ module.exports = {
         'date': '2009 - 2012',
         'title': '삼성여자고등학교',
         'contents': ['이과']
+      }
+    ],
+    '자격증': [
+      {
+        'date': '2021.04',
+        'title': 'TOEIC (920/990)',
+        'contents': ['YBM']
+      },{
+        'date': '2016.10',
+        'title': '정보처리기사',
+        'contents': ['한국산업인력공단']
+      },
+      {
+        'date': '2016.02',
+        'title': 'OCA',
+        'contents': ['Oracle']
       }
     ]
   },
@@ -211,193 +165,81 @@ module.exports = {
       'date': '2018.10.01 - 2021.01.07',
       'info': '금융권 Web System 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유하고 있는 기술 기반의 개발업체.',
       'service': [
-        'Web<br /> - <a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a> <br /> - 자사 Framework(Java Spring기반)으로 개발된 사이트<br /><br />',
-        'iOS App<br /> - 현재 iOS는 내려간 상태'
+        '회사 홈페이지<br /> - <a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a> <br /> - 자사 Framework(Java Spring기반)으로 개발된 사이트<br /><br />',
+        '솔루션 홈페이지<br /> - <a href="https://solution.cyber-i.com/products/framework/coreframe_summary.htm">https://solution.cyber-i.com/main/</a> <br /> - 자사 Framework(Java Spring기반)으로 개발된 사이트<br /><br />'
       ],
       'project': {
         'project': [
           {
-            'date': '2017.10 - 2018.01',
-            'title': 'Nuxt.js 도입 및 SSR 지원',
+            'date': '2020.08 - 2021.01',
+            'title': '한국거래소 홈페이지 개발 및 운영',
             'contents': [
-              '원모먼트 서비스 사이트 전체 리뉴얼',
+              '한국거래소의 메인 홈페이지 및 패밀리 사이트, 사내 관리자페이지 개발 및 서버 운영.',
               `
               - 작업 리스트 : 
-              메인 / 상품 리스트 / 상품 상세 / 상품 리뷰  / 카테고리 / 정기구독 리스트 /  정기구독 등록 / 주문 / 주문 확인 / 마이페이지 - 기념일 / 마이페이지 - 주문리스트 / 마이페이지 - 주문상세 / 마이페이지 - 프로필 / 마이페이지 - 프로필 수정 / 적립금  / 마이페이지 - 간편결제 카드 관리 / 마이페이지 - 주소록 리스트 / 마이페이지 - 주소록 / FAQ / 이용약관 / 채용 / 회사소개 / 기획전
+              메인 / 
+              관리자페이지 - 직원별 업무 관리, sitemap 관리 (메뉴 조회, 업로드, 업데이트 ) 
               `,
-              '- Nuxt.js 도입 및 SSR 지원',
-              '- css 프레임워크 제거 및 LESS 도입',
-              '- 그리드 시스템 개발',
-              '- 시멘틱 웹 표준 준수',
-              '- axios 를 활용한 api call',
-              '- PM2, ecosystem을 이용한 배포 자동화',
+              '- 기존 데이터 관리 시스템을 개선한 데이터 업로드 자동화 개발로 업무 프로세스 개선 경험',
+              '- 사내 task(업무) 관리 신규 비지니스 로직 구현',
+              '- 서버, 웹에서 발생되는 서비스 장애 및 사용자 민원 원인 분석 및 해결',
+              '- 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험',
               '- 기여도 : 100%, 단독진행',
-              'stack: Vue.js, Nuxt.js, Less'
+              'stack: java, Oracle, Linux, Spring, Javascript, jQuery, HTML, CSS'
             ]
           },
           {
-            'date': '2017.02 - 2017.03',
-            'title': 'Vue.js 도입',
+            'date': '2020.04 - 2020.07',
+            'title': '삼성선물 홈페이지 재구축',
             'contents': [
-              '원모먼트 서비스 사이트 전체 리뉴얼',
+              '자사의 스프링 기반 프레임워크, CMS솔루션을 적용하여 삼성선물 홈페이지( PC및 모바일 대응) 국/영문 리뉴얼 및 독립서비스 개선 프로젝트.',
               `
               - 작업 리스트 : 
-              메인 / 상품 리스트 / 상품 상세 / 상품 리뷰  / 카테고리 / 정기구독 리스트 /  정기구독 등록 / 적립금 / FAQ / 이용약관 / 채용 / 회사소개 / 기획전
+              메인 / 
+              로그인 - ID 찾기, 비밀번호 변경 / 
+              마이페이지 - 개인정보열람청구 / 
+              상품안내 - 해외선물, FX마진, 증거금 안내 / 
+              리서치 - 데일리시황, 중장기전망, 이슈분석 / 고객지원 - 제도안내, ID 등록, ID찾기, 비밀번호 변경, 잠김 해제, 모의거래 신청, 약관, 유의사항 / 
+              회사소개 - 개요, 재무정보, 윤리경영, 채용정보 / 
+              고객유의사항 / 
+              관리자 페이지 - 상품 수익률 관리
               `,
-              '- Vue.js (SPA) 도입',
-              '- 비동기 처리를 이용한 서비스 속도 개선',
-              '- vue-resource 를 활용한 api call',
-              '- 기여도 : 45%',
-              'stack: Vue.js, Bootstrap 4, Bootstrap 3, jQuery'
+              '- AJAX 비동기 통신을 이용한 서비스 속도 개선 (게시판, 파일 다운로드, 본인인증 등)',
+              '- 마이페이지, 리서치, 관리자 화면 개발 및 반응형 화면 개발',
+              '- 모바일 최적화를 위한 반응형 화면 개발 및 정적페이지 개발',
+              '- 시스템구축, 화면개발, 단위, 통합테스트, 사용자, 운영자 매뉴얼 작성 등 프로젝트 전반에 참여',
+              '- 기여도 : 100%',
+              'stack: Java, ajax, Javascript, jQuery, HTML, CSS'
             ]
           },
           {
-            'date': '2016.06 - 2017.11',
-            'title': 'iOS App 런칭',
+            'date': '2019.09 - 2019.10',
+            'title': '한국거래소 거래정보저장소(TR)시스템 번역',
             'contents': [
-              'iOS App 런칭',
-              `
-              - 작업 리스트 : 
-              메인 / 상품 리스트 / 상품 상세 / 상품 리뷰  / 카테고리 / 주문 / 주문 확인 / 마이페이지 - 주문리스트 / 마이페이지 - 주문상세 / 마이페이지 - 프로필 / 마이페이지 - 프로필 수정 / 마이페이지 - 주소록 리스트 / 마이페이지 - 주소록 / FAQ / 이용약관 / 채용 / 회사소개 / 기획전
-              `,
-              '- Auto Layout을 이용한 반응형 앱 개발',
-              '- iTunes Connect 배포 및 버전 관리',
-              '- cocoapods 를 활용한 라이브러리 디펜던시 관리',
-              '- alamofire 를 활용한 api call',
-              '- 기여도 : 100%, 단독진행',
-              'stack: Swift, cocoapods'
+              '자사 API서버 솔루션을 이용한 거래정보저장소(TR) 시스템 구축 프로젝트에서 OPEN API 시스템 구축을 위한 프로토콜 정의사항 및 프로시저 번역, 개발환경 세팅을 담당.',
+              '- OPEN API, OAuth 한글 및 영문 메뉴얼 작성(영>한, 한>영)',
+              '- API 영문 서적 번역 및 시스템 프로시저 영문 번역',
+              '- 기여도 : 100%, 단독진행'
             ]
           },
           {
-            'date': '2016.01 - 2016.03',
-            'title': '관리자 페이지',
+            'date': '2019.06 - 2019.07',
+            'title': '사내 이슈관리 사이트 개발 & 운영',
             'contents': [
-              '원모먼트 서비스 관리자 페이지 제작 및 유지보수',
+              '프로젝트에서 발생하는 이슈와 사내 솔루션에서 발생하는 버그관리를 위한 프로젝트 관리 시스템을 기획, 개발 및 운영.',
               `
               - 작업 리스트 : 
               퀵사 연동 / 주문 내역 (운영팀/플라워팀) / 퀵 주문 내역 / 주문 리포트 / 기념일 리포트 / 기획전 생성 페이지
-              `,
-              '- Django template을 이용한 front-end 개발',
-              '- 기여도 : 30%',
-              'stack: Django'
-            ]
-          },
-          {
-            'date': '2016.01 - 2016.03',
-            'title': '웹 서비스 런칭',
-            'contents': [
-              '원모먼트 서비스 런칭',
-              `
-              - 작업 리스트 : 
               메인 / 상품 리스트 / 상품 상세 / 상품 리뷰  / 카테고리 / 주문 / 주문 확인 / 마이페이지 - 주문리스트 / 마이페이지 - 주문상세 / 마이페이지 - 프로필 / 마이페이지 - 프로필 수정 / 마이페이지 - 주소록 리스트 / 마이페이지 - 주소록 / FAQ / 이용약관 / 회사소개
+             
               `,
-              '- Django template을 이용한 front-end 개발',
-              '- 기여도 : 100%, 단독진행',
-              'stack: HTML5, CSS3, JavaScript, jQuery, Django'
-            ]
-          }
-        ]
-      }
-    },
-    'Spoqa (스포카)': {
-      'date': '2018.04.23 - 현재',
-      'info': '소상공인을 위한 포인트 적립 및 마케팅 솔루션을 제공하는 스타트업.',
-      'service': [
-        `Web<br /> 
-        - 회사 홈페이지: <a href="https://www.spoqa.com/">https://www.spoqa.com/</a><br/>
-        - 도도포인트 홈페이지: <a href="https://www.dodopoint.com/">https://www.dodopoint.com/</a>
-        `
-      ],
-      'project': {
-        'project': [
-          {
-            'date': '2019.03 - ',
-            'title': 'Growth Hack',
-            'contents': [
-              '메시지, 인바운드 그로쓰핵을 위한 프론트엔드 작업',
-              '- 작업 리스트 : 퀘스트 기능 정식 릴리즈',
-              'stack: React, Redux, Typescript, Scss'
-            ]
-          },
-          {
-            'date': '2019.01 - 2019.03',
-            'title': 'Inbound 스쿼드 오거나이저',
-            'contents': [
-              '리드 확보 및 재계약율 개선을 위한 그로쓰핵 스쿼드 오거나이징',
-              '- 작업 리스트 : 실무자 미팅 / 협의체 미팅 / 리더 미팅 / 프로덕트 매니징 / 리드 확보 기획안 작성 및 프로토타이핑 / inbound 리드 시트 개선안 기획 / 소개 리워드 기능 기획 및 프론트엔드 작업 / 퀘스트 기능 기획 및 프론트엔드 작업',
-              'stack: Python, Jinja2, React, Redux, Typescript, Scss'
-            ]
-          },
-          {
-            'date': '2018.07 - 2018.11',
-            'title': '손님용 모바일 페이지 배포',
-            'contents': [
-              '손님이 직접 회원 정보를 수정 할 수 있는 모바일 페이지 배포',
-              '- 작업 리스트 : 정보 확인 / 변경 / 휴대폰 변경 / 인증 번호 확인',
-              '- 기여도 : 50%, 프론트엔드 100% 기여',
-              'stack: React, Redux, Typescript, Scss'
-            ]
-          },
-          {
-            'date': '2018.05 - 2018.06',
-            'title': 'POS와 태블릿 연동 개선',
-            'contents': [
-              'POS와 태블릿을 SSE를 이용하여 연동할 수 있는 프로세스 개발',
-              '- 작업 리스트 : 태블릿에서 연동 코드 가져오기 / POS에서 연동코드 확인하기 / iOS, Android와 웹 연동을 위해 네이티브 코드 수정',
-              '- SSE(Server-Sent Events) 을 이용하여 연동 ping/pong',
-              '- 기여도 : 25%, 프론트엔드 100% 기여',
-              'stack: React, Redux, Typescript, Scss'
-            ]
-          },
-        ]
-      }
-    },
-    'ATEAM VENTURES (에이팀벤쳐스)': {
-      'date': '2015.01.02 - 2016.01.06',
-      'info': '3D Printer 공유 플랫폼 사이트 “ShapEngine” 을 서비스 중인 스타트업.',
-      'service': [
-        `Web<br />
-        <span style="font-weight:bold">shapEngine</span><br />
-        - 3D Printer를 보유한 사람과 3D Modeling 도면을 보유한 사람을 매칭해 주는 중개 플랫폼<br />
-        - 현재 '<a href="https://creatable.com/">https://creatable.com/</a>'으로 변경<br /><br />
-        <span style="font-weight:bold">creatable labs</span><br />
-        - 자사 3D Printer 인 creatable 시리즈 판매 사이트<br />
-        - <a href="https://creatablelabs.com/">https://creatablelabs.com/</a>`
-      ],
-      'project': {
-        'project': [
-          {
-            'date': '2015.07 - 2016.01',
-            'title': 'shapEngine 웹 서비스 리뉴얼',
-            'contents': [
-              'shapEngine 웹 서비스 리뉴얼',
-              '- 작업 리스트 : 메인 / 프린터 등록 / 채팅 ',
-              '- Django로 리팩토링',
-              '- 기여도 : 25%',
-              'stack: Django, Jinja2, HTML5, CSS3, JavaScript'
-            ]
-          },
-          {
-            'date': '2015.06 - 2015.06',
-            'title': 'creatable labs 웹 서비스 제작',
-            'contents': [
-              'creatable labs 웹 서비스 제작',
-              '- 작업 리스트 : 블로그 페이지 제작',
-              '- 워드프레스로 제작',
-              '- 기여도 : 10%',
-              'stack: HTML5, CSS3'
-            ]
-          },
-          {
-            'date': '2014.12 - 2015.06<br/>(인턴 2개월)',
-            'title': 'shapEngine 웹 서비스 제작',
-            'contents': [
-              'shapEngine 웹 서비스 제작',
-              '- 작업 리스트 : 메인 / 프린터 등록 / 채팅',
-              '- 3D Printer 를 보유 한 사람이 프린터를 등록 할 수 있는 프로세스 개발',
-              '- Jinja2을 이용한 front-end 개발',
-              '- 기여도 : 25%',
-              'stack: Flask, Jinja2, HTML5, CSS3, JavaScript'
+              '- LDAP을 이용한 로그인 구현',
+              '- 게시판, 댓글, 페이징, 첨부파일 등 개발',
+              '- JavaMail API을 이용한 메일링 모듈 개발',
+              '- Jenkins, DC/OS를 이용한 무중단 배포 경험',
+              '- 프로젝트 기획, 개발환경 세팅, 프론트엔드 / 백엔드 개발, 런칭, 운영',
+              '- 기여도 : 100%',
+              'stack: Java, Spring, MySQL, Javascript, jQuery, HTML, CSS'
             ]
           }
         ]
