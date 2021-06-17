@@ -3,6 +3,7 @@ const VueLoaderPlugin = require('vue-loader/lib/plugin')
 module.exports = {
   output: {
     filename: 'bundle.js',
+    publicPath: "/dist"
   },
   performance: {
     hints: process.env.NODE_ENV === 'production' ? "warning" : false

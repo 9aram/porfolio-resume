@@ -6,7 +6,7 @@ module.exports = {
     email: 'dlrkfka1028@gmail.com',
     links: [
       {name: 'github', href: 'https://github.com/9aram'},
-      {name: 'portfolio', href: 'https://9aram.github.io/porfolio-developer/'}
+      {name: 'portfolio', href: 'https://9aram.github.io/portfolio-developer/'}
     ]
   },
   contents: {
@@ -197,29 +197,21 @@ module.exports = {
         ]
       },
       {
-        'date': ['2016.01.25', '2018.01.25'],
-        'title': 'ONE MOMENT (원모먼트)',
+        'date': ['2017.06.08', '2017.08.13'],
+        'title': 'Bizz Inc',
         'contents': [
           '주 - Front-end 개발',
-          '서브 - Swift, Django 개발',
-        ]
-      },
-      {
-        'date': ['2015.01.02', '2016.01.06'],
-        'title': 'ATEAM VENTURES (에이팀벤쳐스)',
-        'contents': [
-          '주 - Front-end 개발',
-          '서브 - Django, Flask 개발',
+          '서브 - Back-end 개발',
         ]
       }
     ]
   },
   detailContents: {
-    'ONE MOMENT (원모먼트)': {
-      'date': '2016.01.25 - 2018.01.25',
-      'info': '90분 당일 꽃배달 서비스 “원모먼트 플라워” 를 서비스 중인 스타트업.',
+    'Cyber Imagination (사이버 이메지네이션)': {
+      'date': '2018.10.01 - 2021.01.07',
+      'info': '금융권 Web System 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유하고 있는 기술 기반의 개발업체.',
       'service': [
-        'Web<br /> - <a href="https://1moment.co.kr/">https://1moment.co.kr/</a> <br /> - 현재 Vue.js (SPA)로 개발된 사이트<br /><br />',
+        'Web<br /> - <a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a> <br /> - 자사 Framework(Java Spring기반)으로 개발된 사이트<br /><br />',
         'iOS App<br /> - 현재 iOS는 내려간 상태'
       ],
       'project': {
