@@ -66,6 +66,7 @@ export default {
       let career = ''
       if (year != 0) { career += year + '년 ' }
       if (month != 0) { career += month + '개월' }
+      career = String(career)
       return career + " 경력"
     },
     transformMailTo () {
