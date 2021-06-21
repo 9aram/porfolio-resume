@@ -29,8 +29,8 @@ export default {
     for (let list in this.lists) {
       let date = ''
       if (typeof(this.lists[list].date) == "object") {
-        let date1 = new Date(this.lists[list].date[0].replace('.', '-'))
-        let date2 = this.lists[list].date[1] == "현재" ? new Date() : new Date(this.lists[list].date[1].replace('.', '-'))
+        let date1 = new Date(this.lists[list].date[0].replace(/-/g,"/"))
+        let date2 = this.lists[list].date[1] == "현재" ? new Date().replace(/-/g,"/") : new Date(this.lists[list].date[1].replace(/-/g,"/"))
         let diff = parseInt((date2 - date1) / (24 * 60 * 60 * 1000 * 30)) + 1
         let year = parseInt(diff / 12)
         let month = parseInt(diff % 12)
