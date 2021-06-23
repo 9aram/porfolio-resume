@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         'date': 'Framework',
-        'title': 'Spring / Electron',
+        'title': 'Spring / Node.js / Electron',
         'contents': ['']
       },
       {
@@ -39,23 +39,36 @@ module.exports = {
     ],
     '개인 프로젝트': [
       {
-        'date': '2017.07 - 현재',
-        'title': 'vue-lunar-calendar',
+        'date': '2019.04',
+        'title': 'Progress bar for downloading - Electron',
         'contents': [
-          '- Vue.js component library',
-          '- <a href="https://github.com/KimWooHyun/vue-lunar-calendar">https://github.com/KimWooHyun/vue-lunar-calendar</a>',
-          '- 한국 음력 달력 라이브러리',
+          '- 파일 크기별 다운로드 Progress bar을 확인할 수 있는 데스크탑 App을 Electron으로 구현',
+          '- <a href="https://github.com/9aram/Electron_filedownload">https://github.com/9aram/Electron_filedownload</a>',
+          '- \'request\' 모듈을 사용한 Progress bar 구현',
+          '- 대용량 파일다운로드를 위한 stream, pipe 사용 ',
+          '- 파일 크기 별 다운로드 구현<BR> (10Mb, 100MB, 500MB, 1GM, 10GB)',
+          '- zip파일 압축을 위한 라이브러리 JSZipUtils 사용',
           '- opensource',
-          '- 총 7명의 contributors, 6개의 언어'
+          '- 총 1명의 contributors, 2개의 언어'
         ]
       },
       {
-        'date': '2017.08',
-        'title': 'WHLunarCalendar',
+        'date': '2019.05',
+        'title': 'Taskbar tray for Window - Electron',
         'contents': [
-          '- Swift library',
-          '- <a href="https://github.com/KimWooHyun/WHLunarCalendar">https://github.com/KimWooHyun/WHLunarCalendar</a>',
-          '- 한국 음력 달력 라이브러리',
+          '- \'dns\' 모듈을 이용하여 인터넷 연결 유무를 윈도우 알람으로 알려주는 App',
+          '- <a href="https://github.com/9aram/Electron_taskbar-tray">https://github.com/9aram/Electron_taskbar-tray</a>',
+          '- \'node-notifier\' 모듈을 사용하여 윈도우 시스템 알림 구현',
+          '- opensource'
+        ]
+      },
+      {
+        'date': '2018.06',
+        'title': 'Movie web - React',
+        'contents': [
+          '- YTS 영화정보 API를 이용한 영화소개 사이트',
+          '- <a href="https://github.com/syandgr/movie_web">https://github.com/syandgr/movie_web</a>',
+          '- json 파일을 이용하여 영화정보 출력 ',
           '- opensource'
         ]
       }
@@ -78,32 +91,10 @@ module.exports = {
         'date': '2014.09 - 2014.12',
         'title': '[동서대학교 컴퓨터공학부] 홍보기자',
         'contents': [
-          '학부 블로그 기획, 운영',
+          '학부 블로그 기획, 제작, 운영',
           '- 학부 공지사항 & 행사 기사 작성',
           '- 교내 행사준비',
           '- <a href="https://m.blog.naver.com/PostView.naver?blogId=computer_ck&logNo=220137106101&navType=tl">https://m.blog.naver.com/PostList.naver?blogId=computer_ck</a>'
-        ]
-      },
-      {
-        'date': '2018.02 - 2018.04',
-        'title': 'Women Techmakers KR 2018',
-        'img': '/pa/wtm-logo.png',
-        'contents': [
-          '<strong>Women Techmakers KR 2018 오거나이저</strong>',
-          '- 행사준비',
-          '- 안내사이트 제작',
-          '- <a href="https://wtm-korea-2018.firebaseapp.com/">https://wtm-korea-2018.firebaseapp.com/</a>'
-        ]
-      },
-      {
-        'date': '2017.08 - 2018.10',
-        'title': 'DjangoCon KR 2018',
-        'img': '/pa/djangocon-logo.png',
-        'contents': [
-          '<strong>DjangoCon KR 2018 오거나이저</strong>',
-          '- 행사준비',
-          '- 안내사이트 제작',
-          '- <a href="https://devdjangokr.github.io/2018/">https://devdjangokr.github.io/2018/</a>'
         ]
       }
     ],
@@ -163,10 +154,11 @@ module.exports = {
   detailContents: {
     'Cyber Imagination (사이버 이메지네이션)': {
       'date': '2018.10.01 - 2021.01.07',
-      'info': '금융권 Web System 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유하고 있는 기술 기반의 개발업체.',
+      'info': '금융권 Web System 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유.' +
+          '다양한 금융기관의 개발 실적을 보유하고 있는 기술 기반의 개발업체.',
       'service': [
         '회사 홈페이지<br /> - <a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a> <br /> - 자사 Framework(Java Spring기반)으로 개발된 사이트<br /><br />',
-        '솔루션 홈페이지<br /> - <a href="https://solution.cyber-i.com/products/framework/coreframe_summary.htm">https://solution.cyber-i.com/main/</a> <br /> - 자사 Framework(Java Spring기반)으로 개발된 사이트<br /><br />'
+        '한국거래소(KRX)<br /> - <a href="http://www.krx.co.kr/main/main.jsp">http://www.krx.co.kr/main/main.jsp</a> <br /> - 자사 Framework, API 등 으로 개발된 사이트<br /><br />'
       ],
       'project': {
         'project': [
