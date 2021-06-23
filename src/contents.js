@@ -39,6 +39,28 @@ module.exports = {
     ],
     '개인 프로젝트': [
       {
+        'date': '2021.06',
+        'title': 'portfolio-developer',
+        'contents': [
+          '- gulp로 개발한 개인 포트폴리오 사이트',
+          '- <a href="https://github.com/9aram/portfolio-developer">https://github.com/9aram/portfolio-developer</a>',
+          '- github.io를 이용한 호스팅',
+          '- Sass 사용',
+          '- 반응형',
+          '- opensource',
+          '- 총 2명의 contributors'
+        ]
+      },{
+        'date': '2021.06',
+        'title': 'portfolio-resume',
+        'contents': [
+          '- Vue.js로 개발한 이력서',
+          '- <a href="https://github.com/9aram/portfolio-resume">https://github.com/9aram/portfolio-resume</a>',
+          '- github.io를 이용한 호스팅',
+          '- opensource',
+          '- 총 2명의 contributors'
+        ]
+      },{
         'date': '2019.04',
         'title': 'Progress bar for downloading - Electron',
         'contents': [
@@ -230,7 +252,7 @@ module.exports = {
               '- JavaMail API을 이용한 메일링 모듈 개발',
               '- Jenkins, DC/OS를 이용한 무중단 배포 경험',
               '- 프로젝트 기획, 개발환경 세팅, 프론트엔드 / 백엔드 개발, 런칭, 운영',
-              '- 기여도 : 100%',
+              '- 기여도 : 90%',
               'stack: Java, Spring, MySQL, Javascript, jQuery, HTML, CSS'
             ]
           }
