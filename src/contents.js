@@ -35,6 +35,11 @@ module.exports = {
         'date': 'Database',
         'title': 'Oracle / MySQL',
         'contents': ['']
+      },
+      {
+        'date': 'ETC',
+        'title': 'Github / Gitlab / Jenkins / DC/OS / Intellij / Eclipse / Apach / Tomcat / SVN ',
+        'contents': ['']
       }
     ],
     '개인 프로젝트': [
@@ -253,7 +258,7 @@ module.exports = {
               '- Jenkins, DC/OS를 이용한 무중단 배포 경험',
               '- 프로젝트 기획, 개발환경 세팅, 프론트엔드 / 백엔드 개발, 런칭, 운영',
               '- 기여도 : 90%',
-              'stack: Java, Spring, MySQL, Javascript, jQuery, HTML, CSS'
+              'stack: Java, Spring, MySQL, Javascript, jQuery, Jenkins, DC/OS, HTML, CSS, Gitlab'
             ]
           }
         ]
