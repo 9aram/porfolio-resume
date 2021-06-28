@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         'date': 'Framework',
-        'title': 'Spring / Node.js / Electron',
+        'title': 'Spring / Electron / Node.js',
         'contents': ['']
       },
       {
@@ -198,7 +198,7 @@ module.exports = {
               '- 사내 task(업무) 관리 신규 비지니스 로직 구현',
               '- 서버, 웹에서 발생되는 서비스 장애 및 사용자 민원 원인 분석 및 해결',
               '- 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험',
-              '- 기여도 : 100%, 단독진행',
+              '- 기여도 : 90%',
               'stack: java, Oracle, Linux, Spring, Javascript, jQuery, HTML, CSS'
             ]
           },
