@@ -18,7 +18,7 @@ module.exports = {
       },
       {
         'date': 'Language',
-        'title': 'Java / JavaScript / HTML5 / CSS3',
+        'title': 'Java / JavaScript / HTML5 / CSS3 / jekyll',
         'contents': ['']
       },
       {
