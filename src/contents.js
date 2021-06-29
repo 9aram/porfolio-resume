@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         'date': 'Framework',
-        'title': 'Spring / Electron / Node.js',
+        'title': 'JSP / Electron / Node.js',
         'contents': ['']
       },
       {
@@ -184,7 +184,7 @@ module.exports = {
       'info': '금융권 Web System 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유.' +
           '다양한 금융기관의 개발 실적을 보유하고 있는 기술 기반의 개발업체.',
       'service': [
-        '회사 홈페이지<br /> - <a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a> <br /> - 자사 Framework(Java Spring기반)으로 개발된 사이트<br /><br />',
+        '회사 홈페이지<br /> - <a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a> <br /> - 자사 Framework(Java 기반)으로 개발된 사이트<br /><br />',
         '한국거래소(KRX)<br /> - <a href="http://www.krx.co.kr/main/main.jsp">http://www.krx.co.kr/main/main.jsp</a> <br /> - 자사 Framework, API 등 으로 개발된 사이트<br /><br />'
       ],
       'project': {
@@ -204,7 +204,7 @@ module.exports = {
               '- 서버, 웹에서 발생되는 서비스 장애 및 사용자 민원 원인 분석 및 해결',
               '- 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험',
               '- 기여도 : 90%',
-              'stack: java, Oracle, Linux, Spring, Javascript, jQuery, HTML, CSS',
+              'stack: java, Oracle, Linux, Javascript, jQuery, HTML, CSS',
               '<a href="http://www.krx.co.kr/main/main.jsp">http://www.krx.co.kr/main/main.jsp</a>'
             ]
           },
@@ -212,7 +212,7 @@ module.exports = {
             'date': '2020.04 - 2020.07',
             'title': '삼성선물 홈페이지 재구축',
             'contents': [
-              '자사의 스프링 기반 프레임워크, CMS솔루션을 적용하여 삼성선물 홈페이지( PC및 모바일 대응) 국/영문 리뉴얼 및 독립서비스 개선 프로젝트.',
+              '자사의 Java 기반 프레임워크, CMS솔루션을 적용하여 삼성선물 홈페이지( PC및 모바일 대응) 국/영문 리뉴얼 및 독립서비스 개선 프로젝트.',
               `
               - 작업 리스트 : 
               메인 / 
@@ -261,7 +261,7 @@ module.exports = {
               '- Jenkins, DC/OS를 이용한 무중단 배포 경험',
               '- 프로젝트 기획, 개발환경 세팅, 프론트엔드 / 백엔드 개발, 런칭, 운영',
               '- 기여도 : 90%',
-              'stack: Java, Spring, MySQL, Javascript, jQuery, Jenkins, DC/OS, HTML, CSS, Gitlab',
+              'stack: Java, JSP, MySQL, Javascript, jQuery, Jenkins, DC/OS, HTML, CSS, Gitlab',
               '<a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a>'
             ]
           }
