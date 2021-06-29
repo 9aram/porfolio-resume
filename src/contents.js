@@ -204,7 +204,8 @@ module.exports = {
               '- 서버, 웹에서 발생되는 서비스 장애 및 사용자 민원 원인 분석 및 해결',
               '- 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험',
               '- 기여도 : 90%',
-              'stack: java, Oracle, Linux, Spring, Javascript, jQuery, HTML, CSS'
+              'stack: java, Oracle, Linux, Spring, Javascript, jQuery, HTML, CSS',
+              '<a href="http://www.krx.co.kr/main/main.jsp">http://www.krx.co.kr/main/main.jsp</a>'
             ]
           },
           {
@@ -228,7 +229,8 @@ module.exports = {
               '- 모바일 최적화를 위한 반응형 화면 개발 및 정적페이지 개발',
               '- 시스템구축, 화면개발, 단위, 통합테스트, 사용자, 운영자 매뉴얼 작성 등 프로젝트 전반에 참여',
               '- 기여도 : 100%',
-              'stack: Java, ajax, Javascript, jQuery, HTML, CSS'
+              'stack: Java, ajax, Javascript, jQuery, HTML, CSS',
+              '<a href="https://www.ssfutures.com/ssf/main/main.cmd">https://www.ssfutures.com/ssf/main/main.cmd</a>'
             ]
           },
           {
@@ -238,7 +240,8 @@ module.exports = {
               '자사 API서버 솔루션을 이용한 거래정보저장소(TR) 시스템 구축 프로젝트에서 OPEN API 시스템 구축을 위한 프로토콜 정의사항 및 프로시저 번역, 개발환경 세팅을 담당.',
               '- OPEN API, OAuth 한글 및 영문 메뉴얼 작성(영>한, 한>영)',
               '- API 영문 서적 번역 및 시스템 프로시저 영문 번역',
-              '- 기여도 : 100%, 단독진행'
+              '- 기여도 : 100%, 단독진행',
+              '<a href="https://tr.krx.co.kr/">https://tr.krx.co.kr/</a>'
             ]
           },
           {
@@ -258,7 +261,8 @@ module.exports = {
               '- Jenkins, DC/OS를 이용한 무중단 배포 경험',
               '- 프로젝트 기획, 개발환경 세팅, 프론트엔드 / 백엔드 개발, 런칭, 운영',
               '- 기여도 : 90%',
-              'stack: Java, Spring, MySQL, Javascript, jQuery, Jenkins, DC/OS, HTML, CSS, Gitlab'
+              'stack: Java, Spring, MySQL, Javascript, jQuery, Jenkins, DC/OS, HTML, CSS, Gitlab',
+              '<a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a>'
             ]
           }
         ]
