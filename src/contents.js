@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         'date': 'Framework',
-        'title': 'JSP / Electron / Node.js',
+        'title': 'Spring / Electron / Node.js ',
         'contents': ['']
       },
       {
@@ -261,7 +261,7 @@ module.exports = {
               '- Jenkins, DC/OS를 이용한 무중단 배포 경험',
               '- 프로젝트 기획, 개발환경 세팅, 프론트엔드 / 백엔드 개발, 런칭, 운영',
               '- 기여도 : 90%',
-              'stack: Java, JSP, MySQL, Javascript, jQuery, Jenkins, DC/OS, HTML, CSS, Gitlab',
+              'stack: Java, Spring, MySQL, Javascript, jQuery, Jenkins, DC/OS, HTML, CSS, Gitlab',
               '<a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a>'
             ]
           }
