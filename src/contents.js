@@ -28,7 +28,7 @@ module.exports = {
       },
       {
         'date': 'Library',
-        'title': 'jQuery / D3 / Scss ',
+        'title': 'jQuery / D3 / Sass ',
         'contents': ['']
       },
       {
