@@ -248,7 +248,7 @@ module.exports = {
             'date': '2019.06 - 2019.07',
             'title': '사내 이슈관리 사이트 개발 & 운영',
             'contents': [
-              '프로젝트에서 발생하는 이슈와 사내 솔루션에서 발생하는 버그관리를 위한 프로젝트 관리 사이트를 기획, 개발 및 운영.',
+              '프로젝트에서 발생하는 이슈와 사내 솔루션에서 발생하는 버그관리를 위한 프로젝트 관리 사이트 기획, 개발 및 운영.',
               `
               - 작업 리스트 : 
               퀵사 연동 / 주문 내역 (운영팀/플라워팀) / 퀵 주문 내역 / 주문 리포트 / 기념일 리포트 / 기획전 생성 페이지
@@ -259,9 +259,9 @@ module.exports = {
               '- 게시판, 댓글, 페이징, 첨부파일 등 개발',
               '- JavaMail API을 이용한 메일링 모듈 개발',
               '- Jenkins, DC/OS를 이용한 무중단 배포 경험',
-              '- 프로젝트 기획, 개발환경 세팅, 프론트엔드 / 백엔드 개발, 런칭, 운영',
+              '- 프로젝트 기획, 개발환경 세팅, Front-end / Back-end 개발, 배포, 운영',
               '- 기여도 : 90%',
-              'stack: Java, Spring, MySQL, Javascript, jQuery, Jenkins, DC/OS, HTML, CSS, Gitlab',
+              'stack: Java, JSP, Spring Framework, MySQL, Javascript, jQuery, Jenkins, DC/OS, HTML, CSS, Gitlab',
               '<a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a>'
             ]
           }
