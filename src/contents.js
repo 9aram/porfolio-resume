@@ -129,7 +129,7 @@ module.exports = {
       {
         'date': '2012 - 2017',
         'title': '동서대학교',
-        'contents': ['컴퓨터공학부 정보통신공학전공 (4.02 / 4.5)']
+        'contents': ['컴퓨터공학부 정보통npm신공학전공 (4.02 / 4.5)']
       },{
         'date': '2015 - 2015',
         'title': 'University of Oulu',
@@ -160,6 +160,14 @@ module.exports = {
   },
   summary: {
     '경력 요약': [
+      {
+        'date': ['2021.09.01', '현재'],
+        'title': 'BNK 시스템',
+        'contents': [
+          '주 - Back-end 개발',
+          '서브 - Front-end 개발',
+        ]
+      },
       {
         'date': ['2018.10.01', '2021.01.07'],
         'title': 'Cyber Imagination (사이버 이메지네이션)',
