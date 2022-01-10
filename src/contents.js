@@ -189,7 +189,7 @@ module.exports = {
   detailContents: {
       'BNK 시스템': {
         'date': '2021.09.01 - 현재',
-        'info': '금융권 Web System 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유.' +
+        'info': 'BNK그룹의 자회사로서, 금융권 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유.' +
             '다양한 금융기관의 개발 실적을 보유하고 있는 기술 기반의 개발업체.',
         'service': [
           '회사 홈페이지<br /> - <a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a> <br /> - 자사 Framework(Java 기반)으로 개발된 사이트<br /><br />'
