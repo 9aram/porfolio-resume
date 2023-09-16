@@ -150,25 +150,34 @@ module.exports = {
         'date': '2016.10',
         'title': '정보처리기사',
         'contents': ['한국산업인력공단']
-      },
-      {
+      },{
         'date': '2016.02',
         'title': 'OCA',
         'contents': ['Oracle']
+      },{
+        'date': '2016.02',
+        'title': 'SQL개발자(SQLD)',
+        'contents': ['한국데이터산업진흥원']
       }
     ]
   },
   summary: {
     '경력 요약': [
       {
+        'date': ['2021.09.01', '재직중'],
+        'title': 'BNK 시스템',
+        'contents': [
+          '주 - 경남은행 공과금 운영/유지보수',
+          '서브 - 경남은행 카드 운영/유지보수',
+        ]
+      },{
         'date': ['2018.10.01', '2021.01.07'],
         'title': 'Cyber Imagination (사이버 이메지네이션)',
         'contents': [
           '주 - Back-end 개발',
           '서브 - Front-end 개발',
         ]
-      },
-      {
+      },{
         'date': ['2017.06.08', '2017.08.13'],
         'title': 'Bizz Inc',
         'contents': [
