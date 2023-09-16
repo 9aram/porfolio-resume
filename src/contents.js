@@ -129,7 +129,7 @@ module.exports = {
       {
         'date': '2012 - 2017',
         'title': '동서대학교',
-        'contents': ['컴퓨터공학부 정보통신공학전공 (4.02 / 4.5)']
+        'contents': ['컴퓨터공학부 정보통npm신공학전공 (4.02 / 4.5)']
       },{
         'date': '2015 - 2015',
         'title': 'University of Oulu',
@@ -150,34 +150,33 @@ module.exports = {
         'date': '2016.10',
         'title': '정보처리기사',
         'contents': ['한국산업인력공단']
-      },{
+      },
+      {
         'date': '2016.02',
         'title': 'OCA',
         'contents': ['Oracle']
-      },{
-        'date': '2016.02',
-        'title': 'SQL개발자(SQLD)',
-        'contents': ['한국데이터산업진흥원']
       }
     ]
   },
   summary: {
     '경력 요약': [
       {
-        'date': ['2021.09.01', '재직중'],
+        'date': ['2021.09.01', '현재'],
         'title': 'BNK 시스템',
         'contents': [
-          '주 - 경남은행 공과금 운영/유지보수',
-          '서브 - 경남은행 카드 운영/유지보수',
+          '주 - Back-end 개발',
+          '서브 - Front-end 개발',
         ]
-      },{
+      },
+      {
         'date': ['2018.10.01', '2021.01.07'],
         'title': 'Cyber Imagination (사이버 이메지네이션)',
         'contents': [
           '주 - Back-end 개발',
           '서브 - Front-end 개발',
         ]
-      },{
+      },
+      {
         'date': ['2017.06.08', '2017.08.13'],
         'title': 'Bizz Inc',
         'contents': [
@@ -188,6 +187,37 @@ module.exports = {
     ]
   },
   detailContents: {
+      'BNK 시스템': {
+        'date': '2021.09.01 - 현재',
+        'info': 'BNK그룹의 자회사로서, 금융권 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유.' +
+            '다양한 금융기관의 개발 실적을 보유하고 있는 기술 기반의 개발업체.',
+        'service': [
+          '회사 홈페이지<br /> - <a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a> <br /> - 자사 Framework(Java 기반)으로 개발된 사이트<br /><br />'
+        ],
+        'project': {
+          'project': [
+            {
+              'date': '2021.09.01 - 현재',
+              'title': 'BNK 시스템',
+              'contents': [
+                '한국거래소의 메인 홈페이지 및 패밀리 사이트, 사내 관리자페이지 개발 및 서버 운영.',
+                `
+                - 작업 리스트 :
+                메인 /
+                관리자페이지 - 직원별 업무 관리, sitemap 관리 (메뉴 조회, 업로드, 업데이트 )
+                `,
+                '- 기존 데이터 관리 시스템을 개선한 데이터 업로드 자동화 개발로 업무 프로세스 개선 경험',
+                '- 사내 task(업무) 관리 신규 비지니스 로직 구현',
+                '- 서버, 웹에서 발생되는 서비스 장애 및 사용자 민원 원인 분석 및 해결',
+                '- 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험',
+                '- 기여도 : 90%',
+                'stack: java, Oracle, Linux, Javascript, jQuery, HTML, CSS',
+                '<a href="http://www.krx.co.kr/main/main.jsp">http://www.krx.co.kr/main/main.jsp</a>'
+              ]
+            }
+          ]
+        }
+      },
     'Cyber Imagination (사이버 이메지네이션)': {
       'date': '2018.10.01 - 2021.01.07',
       'info': '금융권 Web System 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유.' +
@@ -200,7 +230,7 @@ module.exports = {
         'project': [
           {
             'date': '2020.08 - 2021.01',
-            'title': '한국거래소 홈페이지 개발 및 운영',
+            'title': '한국거래소 홈페이지 고도화 및 운영',
             'contents': [
               '한국거래소의 메인 홈페이지 및 패밀리 사이트, 사내 관리자페이지 개발 및 서버 운영.',
               `

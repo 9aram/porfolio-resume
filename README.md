@@ -3,7 +3,7 @@
 > resume template
 
 ## Demo
-> https://kimwoohyun.github.io/resume/
+> https://9aram.github.io/portfolio-resume/
 
 ## Build Setup
 
