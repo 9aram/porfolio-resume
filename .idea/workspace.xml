@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e83e3a-f43b-4b6a-a69c-ba67b541d70b" name="Default Changelist" comment="add content">
+    <list default="true" id="a5e83e3a-f43b-4b6a-a69c-ba67b541d70b" name="Default Changelist" comment="경력 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contents.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +29,29 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.contents.js">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bundle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dist/bundle.js" working-dir="$PROJECT_DIR$/dist">
+      <method v="2" />
+    </configuration>
+    <configuration name="contents.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/contents.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.contents.js" />
         <item itemvalue="Node.js.bundle.js" />
       </list>
     </recent_temporary>
@@ -46,6 +65,18 @@
       <option name="presentableId" value="Default" />
       <updated>1624447990667</updated>
       <workItem from="1624447993586" duration="497000" />
+      <workItem from="1624862911558" duration="4246000" />
+      <workItem from="1624950345109" duration="5174000" />
+      <workItem from="1626075383234" duration="2291000" />
+      <workItem from="1626776385560" duration="690000" />
+      <workItem from="1629420663242" duration="588000" />
+      <workItem from="1629964284807" duration="402000" />
+      <workItem from="1694433964561" duration="79000" />
+      <workItem from="1694514396452" duration="878000" />
+      <workItem from="1694860434887" duration="2512000" />
+      <workItem from="1695121282701" duration="963000" />
+      <workItem from="1696242828806" duration="1195000" />
+      <workItem from="1696245547553" duration="5036000" />
     </task>
     <task id="LOCAL-00001" summary="add content">
       <created>1624450239130</created>
@@ -54,7 +85,98 @@
       <option name="project" value="LOCAL" />
       <updated>1624450239130</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update .idea file">
+      <created>1624862972367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624862972367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update skill set">
+      <created>1624869189663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624869189663</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update skill set">
+      <created>1624869530850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624869530850</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update skill set2">
+      <created>1624869974348</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624869974348</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add meta">
+      <created>1624950860302</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624950860302</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add meta">
+      <created>1624951152198</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624951152198</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add meta">
+      <created>1624951334019</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624951334019</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add links">
+      <created>1624952055539</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624952055539</updated>
+    </task>
+    <task id="LOCAL-00010" summary="spring jsp로 수정">
+      <created>1624958169876</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624958169876</updated>
+    </task>
+    <task id="LOCAL-00011" summary="jsp spring으로 수정">
+      <created>1624959849021</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1624959849021</updated>
+    </task>
+    <task id="LOCAL-00012" summary="사내프로젝트 context 수정">
+      <created>1626075493043</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1626075493043</updated>
+    </task>
+    <task id="LOCAL-00013" summary="사내프로젝트 context 수정">
+      <created>1626075744856</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1626075744856</updated>
+    </task>
+    <task id="LOCAL-00014" summary="경력 추가">
+      <created>1694863869507</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694863869507</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,6 +185,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="7096a293-d5a7-4c5f-9296-f814609cfc1d">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -70,9 +217,24 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7096a293-d5a7-4c5f-9296-f814609cfc1d" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add content" />
-    <option name="LAST_COMMIT_MESSAGE" value="add content" />
+    <MESSAGE value="update .idea file" />
+    <MESSAGE value="update skill set" />
+    <MESSAGE value="update skill set2" />
+    <MESSAGE value="add meta" />
+    <MESSAGE value="add links" />
+    <MESSAGE value="spring jsp로 수정" />
+    <MESSAGE value="jsp spring으로 수정" />
+    <MESSAGE value="사내프로젝트 context 수정" />
+    <MESSAGE value="경력 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="경력 추가" />
   </component>
 </project>

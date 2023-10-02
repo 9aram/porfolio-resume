@@ -18,7 +18,7 @@ module.exports = {
       },
       {
         'date': 'Language',
-        'title': 'Java / JavaScript / HTML5 / CSS3 / jekyll',
+        'title': 'Java / JavaScript / HTML5 / CSS3 / Vue.js / jekyll',
         'contents': ['']
       },
       {
@@ -143,6 +143,14 @@ module.exports = {
     ],
     '자격증': [
       {
+        'date': '2023.07',
+        'title': 'SQL개발자(SQLD)',
+        'contents': ['한국데이터산업진흥원']
+      },{
+        'date': '2022.11',
+        'title': 'KBI 금융DT 테스트',
+        'contents': ['한국금융연수원']
+      },{
         'date': '2021.04',
         'title': 'TOEIC (920/990)',
         'contents': ['YBM']
@@ -164,8 +172,8 @@ module.exports = {
         'date': ['2021.09.01', '현재'],
         'title': 'BNK 시스템',
         'contents': [
-          '주 - Back-end 개발',
-          '서브 - Front-end 개발',
+          '주 - 경남은행 인터넷/모바일뱅킹 카드, 지방세 운영',
+          '서브 - 경남은행 공과금 운영/유지보수',
         ]
       },
       {
@@ -189,30 +197,52 @@ module.exports = {
   detailContents: {
       'BNK 시스템': {
         'date': '2021.09.01 - 현재',
-        'info': 'BNK그룹의 자회사로서, 금융권 개발 전문 회사로 자체 개발한 Java 기반의 Framework, API 솔루션 등을 이용하여 은행, 보험, 선물 등 다양한 금융기관의 개발 실적을 보유.' +
-            '다양한 금융기관의 개발 실적을 보유하고 있는 기술 기반의 개발업체.',
+        'info': 'BNK금융그룹 IT전문회사 BNK시스템',
         'service': [
-          '회사 홈페이지<br /> - <a href="https://www.cyber-i.com/main/main/main.cmd">https://www.cyber-i.com/main/main/main.cmd</a> <br /> - 자사 Framework(Java 기반)으로 개발된 사이트<br /><br />'
+          '회사 홈페이지<br /> - <a href="https://www.bnksys.co.kr/web/main.do">https://www.bnksys.co.kr/web/main.do</a><br /><br />'
         ],
         'project': {
           'project': [
             {
-              'date': '2021.09.01 - 현재',
-              'title': 'BNK 시스템',
+              'date': '2022.08 - 2023.01, 2023.06 - 2023.08',
+              'title': '차세대 지방세입 전자고지 서비스',
               'contents': [
-                '한국거래소의 메인 홈페이지 및 패밀리 사이트, 사내 관리자페이지 개발 및 서버 운영.',
-                `
-                - 작업 리스트 :
-                메인 /
-                관리자페이지 - 직원별 업무 관리, sitemap 관리 (메뉴 조회, 업로드, 업데이트 )
-                `,
-                '- 기존 데이터 관리 시스템을 개선한 데이터 업로드 자동화 개발로 업무 프로세스 개선 경험',
-                '- 사내 task(업무) 관리 신규 비지니스 로직 구현',
-                '- 서버, 웹에서 발생되는 서비스 장애 및 사용자 민원 원인 분석 및 해결',
-                '- 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험',
-                '- 기여도 : 90%',
-                'stack: java, Oracle, Linux, Javascript, jQuery, HTML, CSS',
-                '<a href="http://www.krx.co.kr/main/main.jsp">http://www.krx.co.kr/main/main.jsp</a>'
+                '현행 지방세입 전자고지 송달방식 변경에 따른 업무처리 개선',
+                '- 스토리보드 작성, 전문추가, 테스트 데이터 생성, 화면개발, 테스트 등 개발 전체 프로세스 담당',
+                '- 전산설계서 분석, 요건정의 및 협의',
+                '- 보안URL 호출 후 모바일 인앱의 웹뷰생성',
+              '- 기여도 : 100%',
+                'stack: java, JSP, Oracle, Javascript, jQuery, HTML, CSS',
+              ]
+            },{
+              'date': '2023.02 ~ 2023.07',
+              'title': '비대면 제증명 발급 서비스 공과금 대응개발',
+              'contents': [
+                '비대면 채널(모바일/인터넷뱅킹)을 통한 개인뱅킹(24종)/기업뱅킹(23종)의 증명서 발급 서비스의 공과금 대응개발',
+                '- 테스트 데이터 생성 및 제공 : 각 공과금 별 해당 내,외부기관 테스트 데이터 요청 및 제공',
+                '- 전문 수정 및 통합테스트 : 제증명 추가개발에 따른 기존 전문 수정 및 모바일/인터넷 발급테스트',
+                '- 업무요건 정의 및 협의 : 각 공과금 설계서에 따른 증명서 항목 재정의',
+                '- 기여도 : 100%',
+                'stack: java, JSP, Oracle, Javascript, jQuery, HTML, CSS',
+              ]
+            },{
+              'date': '2023.06 - 2023.08',
+              'title': '비대면 카드 자동발급 서비스(모바일 발급 고도화)',
+              'contents': [
+                '기존 카드사업부의 인적심사 후 발급 프로세스에서 신청 즉시 자동발급으로 개선하는 고도화 프로젝트',
+                '- 약관 및 동의서 작성 간소화 : 고객의 직접 기명날인에서 자동날인 (동의서 68번 클릭 + 7번 기명날인->9번 클릭)으로 개선',
+                '- 필수/선택 동의서 화면 개선 : 기존 필수/선택 동의서 일관 동의 프로세스에서 각 항목별 제어 및 유효성 검사 추가, BPR 저장',
+                '- 약정서 리포트 파일 : 전자서명추가, 리포트 화면 개발',
+                '- 기여도 : 30%',
+                'stack: java, JSP, Oracle, Javascript, jQuery, HTML, CSS',
+              ]
+            },{
+              'date': '2021.10 ~ 2022.01',
+              'title': '부산/경남 비예금상품 내부통제관리시스템 구축',
+              'contents': [
+                '- Vue.js와 스프링기반의 프레임워크를 이용한 화면개발, 리포트 개발, 테스트 및 배포',
+                '- 기여도 : 30%',
+                'stack: Vue.js, MySQL,Javascript',
               ]
             }
           ]
@@ -230,12 +260,12 @@ module.exports = {
         'project': [
           {
             'date': '2020.08 - 2021.01',
-            'title': '한국거래소 홈페이지 고도화 및 운영',
+            'title': '한국거래소 홈페이지 개발 및 운영',
             'contents': [
               '한국거래소의 메인 홈페이지 및 패밀리 사이트, 사내 관리자페이지 개발 및 서버 운영.',
               `
               - 작업 리스트 : 
-              메인 / 
+              메인사이트 관리 / 
               관리자페이지 - 직원별 업무 관리, sitemap 관리 (메뉴 조회, 업로드, 업데이트 ) 
               `,
               '- 기존 데이터 관리 시스템을 개선한 데이터 업로드 자동화 개발로 업무 프로세스 개선 경험',
@@ -243,7 +273,7 @@ module.exports = {
               '- 서버, 웹에서 발생되는 서비스 장애 및 사용자 민원 원인 분석 및 해결',
               '- 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험',
               '- 기여도 : 90%',
-              'stack: java, Oracle, Linux, Javascript, jQuery, HTML, CSS',
+              'stack: java, JSP, Oracle, Linux, Javascript, jQuery, HTML, CSS',
               '<a href="http://www.krx.co.kr/main/main.jsp">http://www.krx.co.kr/main/main.jsp</a>'
             ]
           },
