@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e83e3a-f43b-4b6a-a69c-ba67b541d70b" name="Default Changelist" comment="경력 추가">
+    <list default="true" id="a5e83e3a-f43b-4b6a-a69c-ba67b541d70b" name="Default Changelist" comment="edit main role, add sub-project">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/contents.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contents.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -29,7 +28,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.contents.js">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -77,6 +77,8 @@
       <workItem from="1695121282701" duration="963000" />
       <workItem from="1696242828806" duration="1195000" />
       <workItem from="1696245547553" duration="5036000" />
+      <workItem from="1720615865037" duration="1877000" />
+      <workItem from="1720699471013" duration="2072000" />
     </task>
     <task id="LOCAL-00001" summary="add content">
       <created>1624450239130</created>
@@ -176,7 +178,28 @@
       <option name="project" value="LOCAL" />
       <updated>1694863869507</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="edit main role, add sub-project">
+      <created>1720616733305</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1720616733305</updated>
+    </task>
+    <task id="LOCAL-00016" summary="edit main role, add sub-project">
+      <created>1720616882754</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1720616882754</updated>
+    </task>
+    <task id="LOCAL-00017" summary="PACKAGE EDIT">
+      <created>1720704610301</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720704610301</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +258,12 @@
     <MESSAGE value="jsp spring으로 수정" />
     <MESSAGE value="사내프로젝트 context 수정" />
     <MESSAGE value="경력 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="경력 추가" />
+    <MESSAGE value="edit main role, add sub-project" />
+    <MESSAGE value="PACKAGE EDIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="PACKAGE EDIT" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
