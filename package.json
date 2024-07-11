@@ -9,13 +9,13 @@
     "start": "webpack-dev-server --mode development --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/KimWooHyun/resume.git",
-  "author": "kimwoohyun",
+  "repository": "git+https://github.com/9aram/portfolio-resume",
+  "author": "GARAM LEE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KimWooHyun/resume/issues"
+    "url": "https://github.com/9aram/portfolio-resume/issues"
   },
-  "homepage": "https://github.com/KimWooHyun/resume#readme",
+  "homepage": "https://9aram.github.io/portfolio-resume/",
   "dependencies": {
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
